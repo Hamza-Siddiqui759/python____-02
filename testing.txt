@@ -1,3 +1,17 @@
-ali khan: cricket
-usama: tennis
-aman: foosball
+
+Users 1
+fname : ali 
+lname : khan 
+age : 24 
+gender : male 
+campus : smit 
+counter : 6 
+
+Users 7
+fname : ali 
+lname : khan 
+age : 24 
+gender : male 
+campus : smit 
+counter : 12 
+

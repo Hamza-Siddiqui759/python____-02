@@ -1,0 +1,32 @@
+User 1
+fname : ali
+lname : khan
+age : 24
+gender : male
+campus : smit
+counter : 1
+
+User 1
+fname : ali
+lname : khan
+age : 24
+gender : male
+campus : smit
+counter : 1
+
+User 2
+fname : ali
+lname : khan
+age : 24
+gender : male
+campus : smit
+counter : 2
+
+User 2
+fname : ali
+lname : khan
+age : 24
+gender : male
+campus : smit
+counter : 2
+
